@@ -1,11 +1,11 @@
 ![Welcome!](COIp95v7.gif)
 <h1 align="center">
-  <img src="name.svg" alt="Ravshanov Shahzod" />
+  <img src="name.svg" alt="Rasulov Muhammadamin" />
 </h1>
 <br/>
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiorDevv&theme=github_dark" alt="info">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Am1nDevv&theme=github_dark" alt="info">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Am1nDevv&theme=github_dark&show_icons=true)](https://github.com/Am1nDevv/) 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Am1nDevv&theme=github_dark&layout=compact)](https://wakatime.com/@Am1nDevv)
@@ -13,11 +13,11 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
-[![DiorDevv's github stats](https://github-readme-stats.vercel.app/api?username=DiorDevv&theme=github_dark&show_icons=true)](https://github.com/DiorDevv/)
+[![Am1nDevv's github stats](https://github-readme-stats.vercel.app/api?username=Am1nDevv&theme=github_dark&show_icons=true)](https://github.com/Am1nDevv/)
 
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiorDevv&theme=tokyonight_duo&hide_border=true)](https://github.com/DiorDevv/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Am1nDevv&theme=tokyonight_duo&hide_border=true)](https://github.com/Am1nDevv/)
 
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
@@ -50,6 +50,6 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/shukurali-rezamonov/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in//](https://www.linkedin.com/in/muhammadamin-rasulov-619665386/))]([[https://www.linkedin.com/in/shukurali-rezamonov/](https://www.linkedin.com/in/muhammadamin-rasulov)](https://www.linkedin.com/in/muhammadamin-rasulov))
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diyorbekaxmadjonov98@gmail.com)](mailto:diyorbekaxmadjonov98@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/mee_dior)](https://t.me/mee_dior)
