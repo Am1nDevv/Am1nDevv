@@ -50,6 +50,6 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in//](https://www.linkedin.com/in/muhammadamin-rasulov-619665386/))]([[https://www.linkedin.com/in/shukurali-rezamonov/](https://www.linkedin.com/in/muhammadamin-rasulov)](https://www.linkedin.com/in/muhammadamin-rasulov))
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diyorbekaxmadjonov98@gmail.com)](mailto:diyorbekaxmadjonov98@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/mee_dior)](https://t.me/mee_dior)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in//](https://www.linkedin.com/in/muhammadamin-rasulov-619665386/))]([[https://www.linkedin.com/in/muhammadamin-rasulov-619665386/](https://www.linkedin.com/in/muhammadamin-rasulov)](https://www.linkedin.com/in/muhammadamin-rasulov))
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammadamin201014@gmail.com)](mailto:muhammadamin201014@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/R_M_S_Noted)](https://t.me/R_M_S_Noted)
